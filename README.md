@@ -36,4 +36,4 @@ reloader ⚡
 ```
 
 
-**That's it! Now bask in the glory of effortless auto-reloads. **
+##### That's it! Now bask in the glory of effortless auto-reloads. 
