@@ -1,4 +1,5 @@
 # Reloader: Unleashing Your Workflow with Lightning-Fast Auto-Reloads ⚡
+- [ ] **Development Mode:** still in development, project started 19th, Jan 2024.
 
 ## Tired of manually refreshing your projects?  Say goodbye to that tedious chore with Reloader! 
 
