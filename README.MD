@@ -1,4 +1,4 @@
-# Reloader: Unleashing Your Workflow with Lightning-Fast Auto-Reloads [ ALL LINUX ENVIROMENTS ⚡ ]
+# reload: Unleashing Your Workflow with Lightning-Fast Auto-Reloads [ ALL LINUX ENVIROMENTS ⚡ ]
 
 ## Tired of manually refreshing your projects?  Say goodbye to that tedious chore with Reloader! 
 
