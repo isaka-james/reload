@@ -1,5 +1,4 @@
 # Reloader: Unleashing Your Workflow with Lightning-Fast Auto-Reloads ⚡
-- [ ] **Development Mode:** Still on development, project started 19th, Jan 2024.
 
 ## Tired of manually refreshing your projects?  Say goodbye to that tedious chore with Reloader! 
 
@@ -25,15 +24,15 @@ Reloader is the Bash-powered  auto-reloader that's got your back. It's like havi
 ```bash
 
 git clone https://github.com/reprogamaco/reload.git 
-cd reloader 
-bash install 
+cd reload
+bash install.sh
 ```
 
 ### Unleash the Reloader:
 
 ```bash
 
-reloader ⚡
+reload
 ```
 
 
