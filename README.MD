@@ -1,4 +1,5 @@
 # reload: Unleashing Your Workflow with Lightning-Fast Auto-Reloads [ ALL LINUX ENVIROMENTS ⚡ ]
+<img src="https://komarev.com/ghpvc/?username=reload&label=reload&color=0e75b6&style=flat" alt="since 21 Feb,2024" />
 
 ## Tired of manually refreshing your projects?  Say goodbye to that tedious chore with Reloader! 
 
@@ -23,7 +24,7 @@ Reloader is the Bash-powered  auto-reloader that's got your back. It's like havi
 
 ```bash
 
-git clone https://github.com/reprogamaco/reload.git 
+git clone https://github.com/isaka-james/reload.git 
 cd reload
 bash install.sh
 ```
